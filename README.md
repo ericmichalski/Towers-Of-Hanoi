@@ -1,4 +1,4 @@
-# Towers-Of-Hanoi
+# Towers Of Hanoi
 Singleplayer and two player versions of the game, Towers of Hanoi
 
 Run the appropriate file to play the game.
